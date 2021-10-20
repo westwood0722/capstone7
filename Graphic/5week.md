@@ -7,12 +7,13 @@
 
 ##perfect
 
-
-
+![KakaoTalk_20211020_174006644](https://user-images.githubusercontent.com/63458011/138067970-c4ff476f-8522-468a-9061-23bf9b173d01.png)
+![KakaoTalk_20211020_174006644_01](https://user-images.githubusercontent.com/63458011/138067988-ce0746ef-cfa6-4c70-b2a0-2ffab229f47a.png)
 
 ##good
 
-
+![KakaoTalk_20211020_174017148](https://user-images.githubusercontent.com/63458011/138068202-52d95487-c56e-41af-ace4-60d7362f6f92.png)
+![KakaoTalk_20211020_174017148_01](https://user-images.githubusercontent.com/63458011/138068211-fa16e015-dc2a-4312-8842-79190ee31b6f.png)
 
 ##bad
 
