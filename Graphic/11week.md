@@ -26,3 +26,15 @@
 ![beat-lish_char_dino_m1](https://user-images.githubusercontent.com/55868853/141215229-98dd3294-c2bc-458a-af81-c1c4a1f0d5ad.png)
 ![beat-lish_char_dino_m2](https://user-images.githubusercontent.com/55868853/141215235-ccc67515-c89b-4832-bfec-4deeac780048.png)
 
+
+
+# 공룡ABC 배경이미지
+
+## 패턴
+
+![beat-lish-background_dino](https://user-images.githubusercontent.com/55868853/141266701-78f3af65-f1d0-46ef-9c63-aa5ef2337ebe.png)
+
+## 컨셉
+
+![beat-lish-background_dino2](https://user-images.githubusercontent.com/55868853/141266822-1eb2a898-48c5-4964-8206-56416efe3972.png)
+
